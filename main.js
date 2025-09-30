@@ -1,1 +1,1 @@
-alert("TOmanocu")
+alert("TOUmanocu")
