@@ -15,6 +15,13 @@ height : 800px;
 margin: 0;
 }
 
+button{
+  background-color: brown;
+  color:purple;
+  padding : 20px;
+}
+
+
 .img01{
   width: 80%
 }
