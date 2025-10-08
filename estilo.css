@@ -4,7 +4,7 @@
 
 body{
 background-color: pink;
-color: mistyrose;
+color: green;
   font-family: "Ole", cursive;
   font-weight: 400;
   font-style: normal;
@@ -15,5 +15,5 @@ align-items: center;
 }
 
 .img01{
-  width: 100%
+  width: 80%
 }
