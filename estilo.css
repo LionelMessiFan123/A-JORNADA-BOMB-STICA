@@ -1,6 +1,5 @@
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Ole&display=swap');
-</style>
+
 
 body{
 background-color: pink;
@@ -8,7 +7,7 @@ color: green;
   font-family: "Ole", cursive;
   font-weight: 400;
   font-style: normal;
-display: flex
+display: flex;
 justify-content : center;
 align-items : center;
 height : 800px;
